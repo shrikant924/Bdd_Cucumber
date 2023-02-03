@@ -1,0 +1,11 @@
+<suite name="Suite">
+    <test name="Android">
+        <parameter name="deviceName" value="MO1_Android"/>
+        <classes>
+            <class name="testRunner.AppRunner"/>
+            <class name="testRunner.FailureRerun"/>
+            <class name="testRunner.FailureRerun1"/>
+            <class name="testRunner.FailureRerun2"/>
+        </classes>
+    </test>
+</suite>

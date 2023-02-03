@@ -1,0 +1,16 @@
+{
+  "Base_URI": "http://localhost:8888",
+  "username": "vikas",
+  "password": "admin",
+  "reportType": true,
+  "enabled": true,
+  "new_password": "password",
+  "roles": "ADMIN",
+  "new_username": "username",
+  "authentication_end_point": "/auth",
+  "create_user_end_point": "/user",
+  "generate_reposts_endpoint": "/fault/reports",
+  "query_param_fromDate": "2021-07-01",
+  "query_param_toDate": "2021-07-30",
+  "query_param_reportType": "DFAD"
+}

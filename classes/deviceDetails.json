@@ -1,0 +1,40 @@
+{
+  "MO1_Android": {
+    "automationType": "app",
+    "sessionName": "Automation test session",
+    "sessionDescription": "",
+    "deviceOrientation": "portrait",
+    "noReset": true,
+    "fullReset": false,
+    "captureScreenshots": true,
+    "deviceName": "Redmi 9i",
+    "platformVersion": "10",
+    "platformName": "Android",
+    "appPackage": "com.tatasky.binge",
+    "appActivity": "com.tatasky.binge.ui.features.splash.AppSplashActivity",
+    "udid": "LBYPFQXSVCZLUGQ4",
+    "appium-url": "http://0.0.0.0:4723/wd/hub"
+  },
+"phoneNumber": {
+  "RMN_UAT": "6582098391",
+  "RMN_Prod": "8856822923"
+},
+
+  "MO2_Android": {
+    "automationType": "app",
+    "sessionName": "Automation test session",
+    "sessionDescription": "",
+    "deviceOrientation": "portrait",
+    "noReset": true,
+    "fullReset": false,
+    "captureScreenshots": true,
+    "deviceName": "Redmi 9i",
+    "platformVersion": "10",
+    "platformName": "Android",
+    "appPackage": "com.tatasky.binge",
+    "appActivity": "com.tatasky.binge.ui.features.splash.AppSplashActivity",
+    "udid": "WGT44D7DUOI7K7VK",
+    "appium-url": "http://0.0.0.0:4723/wd/hub"
+  }
+
+}
